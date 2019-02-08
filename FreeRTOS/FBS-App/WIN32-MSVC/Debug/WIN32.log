@@ -1,0 +1,4 @@
+﻿  main_exercise.c
+c:\users\ghour\desktop\exercise_02\freertos\fbs-app\win32-msvc\main_exercise.c(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\ghour\desktop\exercise_02\freertos\fbs-app\win32-msvc\main_exercise.c(160): warning C4018: '<': signed/unsigned mismatch
+  WIN32.vcxproj -> C:\Users\ghour\Desktop\exercise_02\FreeRTOS\FBS-App\WIN32-MSVC\.\Debug\FBS-App.exe
